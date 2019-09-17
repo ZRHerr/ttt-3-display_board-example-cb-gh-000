@@ -7,4 +7,3 @@ display_board = "   |   |   \n"
 puts display_board
 end
 display_board = "   |   |   \n"
-

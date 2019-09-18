@@ -3,6 +3,7 @@ display_board = "   |   |   \n"
 += "-----------\n"
 += "   |   |   \n"
 += "-----------\n"
-+= "   |   |   \n"def display_board
++= "   |   |   \n"
+def display_board
 puts display_board
 end
